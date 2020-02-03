@@ -1,0 +1,23 @@
+# First 
+User_Name=input("enter a User Name ") # Reading a name of a person
+if(len(User_Name)>3):                 # Check length of name read from above line if greater then 3 it will print name 
+    print("Hello",len(User_Name),"How are you?")
+else:
+    print("Name is below 3 Charater's") 
+
+
+
+# Second
+User_Name=input("enter a User Name ") # Reading a name of a person
+User_Name= list(User_Name)            # Convent it into list
+if(len(User_Name)>3):                 # check size of list is greater then 3
+    print("Hello","".join(Split_User_Name),"How are you?") # join the list and print name 
+else:
+    Print("Name is below 3 Charater's ")
+    
+    
+    
+    
+# Third 
+User_Name = 
+    
